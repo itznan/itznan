@@ -49,12 +49,8 @@ Explore on [GitHub](https://github.com/itznan/locsim)
 
 ## Interests
 
-- Low-level systems programming (Linux kernel internals, POSIX, systemd, sysfs)
-- Hardware telemetry, kernel driver interop & custom fan/RGB controllers
-- Linux CLI utilities, daemons & developer tooling
-- Cross-platform simulation & mock developer environments
-- Network protocol inspection, reverse engineering & high-throughput scrapers
-- AI-assisted engineering & autonomous agent workflows
+- High-performance systems and software
+- Everything I don't know
 
 ---
 
