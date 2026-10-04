@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Computer Science & Engineering (AI) Student from Rajkot, Gujarat  
 Systems & Native Software Engineer | Rajkot, India  
-Building hardware-level utilities, GPU processing engines, and native Windows software with AI-assisted architectures.
+Building low-level hardware utilities, native Windows software, and developer tooling with AI-assisted architectures.
 
 ---
 
@@ -31,26 +31,26 @@ Explore on [GitHub](https://github.com/itznan/comixapi)
 A zero-overhead, native Rust CLI lighting and motherboard controller for MSI MPG B550 Gaming Plus motherboards and Gigabyte RTX 3060 Ti GPUs. Bypasses bloated vendor software through direct USB HID (`0x52`) feature reports and NVAPI I2C probes, strictly writes to volatile RAM to prevent EEPROM flash wear, and features a real-time WASAPI sub-bass audio visualizer.  
 Explore on [GitHub](https://github.com/itznan/fanrgbmpgb550)
 
-**diagonalnet**  
-A pure Go, zero-dependency deep learning engine built strictly from first principles. Features 13-channel spatial difference manifold calculus, contiguous 1D/3D tensor engines, analytical Jacobian autograd, lock-free parallel gradient reduction, Adam optimization, and a high-performance multi-core CPU runtime.  
-Explore on [GitHub](https://github.com/itznan/diagonalnet)
+**pankha**  
+A unified hardware fan control and telemetry application designed specifically for 64-bit Windows. Consolidates disparate cooling channels (motherboard Super I/O, CPU AIO pumps, and GPU fans) into a centralized, low-latency control interface with automated duty-cycle calibration, dynamic custom curves, and failsafe thermal cutoffs.  
+Explore on [GitHub](https://github.com/itznan/pankha)
 
 **wincallnotifier**  
 A lightweight, 100% offline native Windows desktop and system tray application written entirely in Rust. Monitors incoming Android 15 phone call states via USB and ADB shell transports without requiring any APK installed on the phone, delivering native Windows toast notifications with zero cloud reliance.  
 Explore on [GitHub](https://github.com/itznan/wincallnotifier)
 
-**nanaccel**  
-A lightweight, high-performance GPU-accelerated video decoder, encoder, and shader processing pipeline built in Rust for low-latency multimedia workflows.  
-Explore on [GitHub](https://github.com/itznan/nanaccel)
+**locsim**  
+A universal, cross-platform location simulator written in 100% safe Rust (published on [crates.io](https://crates.io/crates/locsim)). Seamlessly simulates device coordinates, altitude, accuracy, speed, and heading across Windows, Linux, Android emulators, iOS simulators, and headless browsers with a single unified CLI.  
+Explore on [GitHub](https://github.com/itznan/locsim)
 
 ---
 
 ## Interests
 
-- Low-level systems programming & native Windows internals (Win32, WASAPI, HID)
-- GPU acceleration, shader pipelines & video encoding/decoding
-- Hardware telemetry, reverse engineering & custom fan/RGB controllers
-- Custom neural architectures & CPU/GPU mathematical runtimes
+- Low-level systems programming & native Windows internals (Win32, WASAPI, Super I/O)
+- Hardware telemetry, kernel driver interop & custom fan/RGB controllers
+- Cross-platform developer tooling, simulation & mock environments
+- Network protocol inspection, reverse engineering & high-throughput scrapers
 - AI-assisted engineering & autonomous agent workflows
 
 ---
@@ -58,7 +58,7 @@ Explore on [GitHub](https://github.com/itznan/nanaccel)
 ## Tech Stack
 
 - **Languages:** Rust, Go, Python, C#, TypeScript, JavaScript, SQL
-- **Systems & Hardware:** Win32 API, WASAPI, Android ADB, GPU Compute / Shaders, HID / Hardware I/O
+- **Systems & Hardware:** Win32 API, WASAPI, Android ADB, Super I/O & SMBus, HID / Hardware I/O
 - **Frameworks & Web:** FastAPI, Node.js, React, Tailwind CSS, REST APIs
 - **Tooling & Workflows:** Git, PowerShell, Docker, AI agent orchestration & prompt architecture
 
