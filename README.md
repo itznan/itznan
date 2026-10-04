@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Computer Science & Engineering (AI) Student from Rajkot, Gujarat  
 Systems & Native Software Engineer | Rajkot, India  
 Building hardware-level utilities, GPU processing engines, and native Windows software with AI-assisted architectures.
 
