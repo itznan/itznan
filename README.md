@@ -63,14 +63,6 @@ Explore on [GitHub](https://github.com/itznan/locsim)
 
 ---
 
-## Outside of Code
-
-- Anime, manga & light novel enthusiast 📖
-- PC hardware tinkering, custom loop tuning & silent builds 🖥️
-- Competitive gaming (Valorant, Minecraft mechanics) 🎮
-- Exploring autonomous agentic architectures ⚡
-
----
 
 <details>
 <summary><h2>Some useful open-source tools I've been using (on Linux)</h2></summary>
