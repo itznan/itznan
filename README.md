@@ -19,7 +19,7 @@ Computer Science & Engineering (AI) Student from Rajkot, Gujarat
 Systems & Native Software Engineer | Rajkot, India  
 Building low-level hardware utilities, Linux systems software, and developer tooling with AI-assisted architectures.
 
-🔭 Currently working on: **Linux systems, low-level tooling & kernel utilities**
+Currently working on: **Linux systems, low-level tooling & kernel utilities**
 
 ---
 
